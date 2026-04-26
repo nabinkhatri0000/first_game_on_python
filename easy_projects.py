@@ -16,3 +16,4 @@ for i in inputs:
 
 print("even_number :", even_count)
 print("odd_number :", odd_count)
+# what is wrong in this code ???
